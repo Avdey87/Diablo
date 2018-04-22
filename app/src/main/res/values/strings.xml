@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diablo</string>
+    <array name="option">
+        <item>Class</item>
+        <item>Item</item>
+        <item>About game</item>
+    </array>
+
+    <array name="country">
+        <item>USA</item>
+        <item>EUROPA</item>
+        <item>RUSSIA</item>
+    </array>
+</resources>
